@@ -1,0 +1,6 @@
+site_name: e-comm
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core
